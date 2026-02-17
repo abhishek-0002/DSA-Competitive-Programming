@@ -1,2 +1,2 @@
 # DSA-Competitive-Programming
-Project considers the all DSA and competitive related challenges
+The project contains all DSA and competitive-related challenges
